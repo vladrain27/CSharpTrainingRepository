@@ -1,0 +1,15 @@
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.csproj.AssemblyReference.cache
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.AssemblyInfoInputs.cache
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.AssemblyInfo.cs
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.csproj.CoreCompileInputs.cache
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\bin\Debug\net6.0\CSharpSecondSession.exe
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\bin\Debug\net6.0\CSharpSecondSession.deps.json
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\bin\Debug\net6.0\CSharpSecondSession.runtimeconfig.json
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\bin\Debug\net6.0\CSharpSecondSession.dll
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\bin\Debug\net6.0\CSharpSecondSession.pdb
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.dll
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\refint\CSharpSecondSession.dll
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.pdb
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\CSharpSecondSession.genruntimeconfig.cache
+C:\Users\vradulescu\OneDrive - ENDAVA\Documents\GitHub\CSharpTrainingRepo\CSharpTrainingRepository\CSharpSecondSession\obj\Debug\net6.0\ref\CSharpSecondSession.dll
