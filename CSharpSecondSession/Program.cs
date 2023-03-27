@@ -5,23 +5,23 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        //Console.WriteLine("Problem 1");
-        //Problem1();
+        Console.WriteLine("Problem 1");
+        Problem1();
 
-        //Console.WriteLine("Problem 2");
-        //Problem2();
+        Console.WriteLine("Problem 2");
+        Problem2();
 
-        //Console.WriteLine("Problem 3");
-        //Problem3();
+        Console.WriteLine("Problem 3");
+        Problem3();
 
-        //Console.WriteLine("Problem 4");
-        //Problem4();
+        Console.WriteLine("Problem 4");
+        Problem4();
 
-        //Console.WriteLine("Problem 5");
-        //Problem5();
+        Console.WriteLine("Problem 5");
+        Problem5();
 
-        //Console.WriteLine("Problem 6");
-        //Problem6();
+        Console.WriteLine("Problem 6");
+        Problem6();
 
         Console.WriteLine("Problem 7");
         Problem7(55);
